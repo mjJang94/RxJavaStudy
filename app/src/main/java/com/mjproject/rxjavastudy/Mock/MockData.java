@@ -1,6 +1,6 @@
 package com.mjproject.rxjavastudy.Mock;
 
-public class FacticiousModel {
+public class MockData {
 
     private String name;
     private Integer age;
